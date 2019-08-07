@@ -303,7 +303,7 @@ h1 {
 
 @media (max-width: 320px) {
 	.deck {
-		width: 85%;
+		width: 90%;
 	}
 
 	.deck .card {
